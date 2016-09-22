@@ -1,0 +1,9 @@
+{
+    "repos": "https://github.com/inuyaksa/jquery.nicescroll.git",
+    "version": "3.6.8",
+    "name": "jquery-nicescroll",
+    "main": "jquery.nicescroll.js",
+    "dependencies": {
+        "jquery": ">=1.6"
+    }
+}
